@@ -1,0 +1,9 @@
+     shots,    errors,  discards, seconds,decoder,strong_id,json_metadata,custom_counts
+      1000,         2,         0,   0.126,mwpf,6a58e80b27851ea4538c8354d550cc94a93f6017edde782e153fe29d617bf5c3,"{""d"":3,""p"":0.01,""r"":2}",
+      1000,        14,         0,   0.456,mwpf,59a3afbb097e05023db54920c60534ac0df63635dc1412e185fc933ce03453f1,"{""d"":3,""p"":0.01,""r"":6}",
+      1000,        30,         0,   0.677,mwpf,95f3eaddd239ff25eb94e3abcb34dfeba4acb976bc2abdeadbbf2d80385f99dc,"{""d"":3,""p"":0.01,""r"":10}",
+      1000,         1,         0,   0.456,mwpf,1f92dd5f2b6b3d29ee1bb10d13872c963ce1786086c02d79c6bdbcef64fab1af,"{""d"":5,""p"":0.01,""r"":2}",
+      1000,         0,         0,    1.60,mwpf,782eca3648dbbb6db60dfe381f7e3779cea691291ff77050734a4303e34fdee0,"{""d"":5,""p"":0.01,""r"":6}",
+      1000,         1,         0,    3.10,mwpf,5eaa16fba29e051860a34f607ada1ada4c4fd7d3d5408e87c92cc91545447df8,"{""d"":5,""p"":0.01,""r"":10}",
+      1000,         0,         0,   0.756,mwpf,16cc82de5126be89ea188db57df1a63a807eea92281850ae479369ab66b28391,"{""d"":7,""p"":0.01,""r"":2}",
+      1000,         1,         0,    3.84,mwpf,1d3d810d0be180d7e861ff1b05fee7fd2f230dcd9692ff22e8f72ad229f230f4,"{""d"":7,""p"":0.01,""r"":6}",
