@@ -1,0 +1,13 @@
+0.01
+!
+fileinside
+!
+fileoutside
+!
+0
+1
+2
+3
+4
+!
+5
